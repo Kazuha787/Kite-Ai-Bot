@@ -14,11 +14,11 @@ const agents = {
 };
 
 function displayAppTitle() {
-  console.log(chalk.cyan(figlet.textSync(' TEAM HUNTER ', { horizontalLayout: 'full' })));
+  console.log(chalk.cyan(figlet.textSync(' KAZUHA ', { horizontalLayout: 'full' })));
   console.log(chalk.dim('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━'));
-  console.log(chalk.gray('BY TEAM HUNTERS '));
+  console.log(chalk.gray('BY KAZUHA OFFICAL '));
   console.log(chalk.dim('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━'));
-  console.log(chalk.yellow('🔗 Telegram: https://t.me/team_hunters0'));
+  console.log(chalk.yellow('🔗 Telegram: https://t.me/Offical_Im_kazuha'));
   console.log(chalk.dim('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n'));
 }
 
