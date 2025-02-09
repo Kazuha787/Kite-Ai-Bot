@@ -26,7 +26,7 @@ This Node.js script automates AI-related blockchain question generation and inte
    ```
 4. Run the script:
    ```sh
-   node main.js
+   node index.js
    ```
 5. The script will generate AI-driven blockchain questions and log responses.
 
